@@ -1,4 +1,4 @@
-### Ticket Number: 004
+### Ticket Number: 005
 ### Title: Chrome Redirecting to jxsrchrdr.com on Startup
 ### Date: 2026-09-26
 ### Category: Software / Browser
@@ -25,4 +25,4 @@ Fixed by:
 5. Cleared browsing data (All time) and restarted Chrome
 
 **Time to Resolve:** ~5 minutes
-**Prevention:** Only install extensions from Chrome Web Store. Keep Microsoft Store disabled on lab PCs and enable content filtering. Educate users not to click Allow on search permission popups.
+**Prevention:** Only install extensions from Chrome Web Store. Educate users not to click Allow on search permission popups.
